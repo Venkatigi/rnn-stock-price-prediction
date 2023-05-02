@@ -11,7 +11,7 @@ Here we have taken the price of google stock dataset
 
 
 ## Neural Network Model
-![1](https://user-images.githubusercontent.com/94154252/235061965-6521234a-fd90-42aa-bff4-e41d3168602e.png)
+![1](https://user-images.githubusercontent.com/94154252/235689687-d84dd02f-1859-4a3b-89ba-00a7b8db5818.png)
 
 ## DESIGN STEPS
 
